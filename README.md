@@ -11,8 +11,8 @@ In the spirit of Open Science, this repository contains all the datasets and fil
 This dataset has been produced in collaboration with IMD (Indian Meteorological Department). 
 
 # Contact
-For any queries, please contact 
-Dr. Manabendra Saharia [Email](msaharia@iitd.ac.in)
-Assistant Professor
-Department of Civil Engineering
-Indian Institute of Technology Delhi
+For any queries, please contact   
+Dr. Manabendra Saharia [Email](msaharia@iitd.ac.in) 
+Assistant Professor 
+Department of Civil Engineering 
+Indian Institute of Technology Delhi 
